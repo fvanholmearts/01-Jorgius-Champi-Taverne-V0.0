@@ -1,2 +1,2 @@
-# 01.-La-Champi-Taverne-de-Jorgius---Jorgius-Champi-Taverne
+# 01. La Champi-Taverne de Jorgius
 BrickBreaker - Game - Lua / Love 2D
